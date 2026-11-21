@@ -1,6 +1,6 @@
 # EIRP
 Aerial-Ground-Drone
-Tan Zhi Xuan 20795127
-Lee Jun Lin
-Javan Siew Yee Hang
-Kelvin Chon Zee Ming 207992090
+\nTan Zhi Xuan 20795127
+\nLee Jun Lin
+\nJavan Siew Yee Hang
+\nKelvin Chon Zee Ming 207992090
